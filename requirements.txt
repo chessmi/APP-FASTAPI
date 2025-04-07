@@ -48,7 +48,6 @@ Pygments==2.19.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.20
-pywin32
 PyYAML==6.0.2
 pyzmq==26.3.0
 rich==13.9.4
